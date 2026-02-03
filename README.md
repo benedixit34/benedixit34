@@ -5,7 +5,7 @@ Backend-focused Software Engineer with experience building scalable APIs, busine
 ---
 
 ## 🔧 Tech Stack
-- **Backend:** Python (Django REST Framework), PHP (Laravel)
+- **Backend:** Python (Django REST Framework), PHP (Laravel), NodeJS, Express
 - **Frontend:** JavaScript, React, Next.js
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Cloud & DevOps:** AWS, Azure, Docker, NGINX
