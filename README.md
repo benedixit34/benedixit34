@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Benedict 👋
 
-<!--
-**benedixit34/benedixit34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Software Engineer with experience building scalable APIs, business systems, and cloud-based platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Backend:** Python (Django REST Framework), PHP (Laravel)
+- **Frontend:** JavaScript, React, Next.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Cloud & DevOps:** AWS, Azure, Docker, NGINX
+- **Integrations:** Stripe, Cloudinary
+
+---
+
+## 🚀 Selected Backend Projects
+- **Digital Wallet System:** Secure wallet backend with balance and transaction management  
+  👉 https://github.com/benedixit34/digital-wallet
+- **E-Commerce Backend:** Products, orders, authentication, and checkout workflows  
+  👉 https://github.com/benedixit34/ecommerce-shop
+- **Language Learning Platform:** APIs for users, lessons, and progress tracking  
+  👉 https://github.com/benedixit34/lang-learning
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/benedixit34  
+- Email: luciusemuh@gmail.com  
+
+*Open to backend software engineering roles.*
