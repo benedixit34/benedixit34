@@ -4,19 +4,19 @@ I'm a **Full-Stack Engineer** focused on building scalable web and mobile applic
 
 ### Tech Stack
 
-**Languages & Backend**
+**Languages & Backend:**
 Node.js · TypeScript · Python · Express.js · NestJS
 
-**Frontend**
+**Frontend:**
 React · Next.js
 
-**Databases**
+**Databases:**
 PostgreSQL · MySQL · SQL
 
-**Cloud & DevOps**
+**Cloud & DevOps:**
 AWS · Azure · Docker · GitHub Actions
 
-**Integrations**
+**Integrations:**
 REST APIs · Payment Gateways · Third-Party APIs
 
 ### What I'm Working On
