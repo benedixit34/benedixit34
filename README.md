@@ -1,30 +1,31 @@
-# Hi, I'm Benedict 👋
+# Hey, I'm Benedict
 
-Backend-focused Software Engineer with experience building scalable APIs, business systems, and cloud-based platforms.
+I'm a **Full-Stack Engineer** focused on building scalable web and mobile applications, with a strong interest in backend engineering, cloud technologies, and AI.
 
----
+### Tech Stack
 
-## 🔧 Tech Stack
-- **Backend:** Python (Django REST Framework), PHP (Laravel), NodeJS, Express
-- **Frontend:** JavaScript, React, Next.js
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Cloud & DevOps:** AWS, Azure, Docker, NGINX
-- **Integrations:** Stripe, Cloudinary
+**Languages & Backend**
+Node.js · TypeScript · Python · Express.js · NestJS
 
----
+**Frontend**
+React · Next.js
 
-## 🚀 Selected Backend Projects
-- **Digital Wallet System:** Secure wallet backend with balance and transaction management  
-  👉 https://github.com/benedixit34/digital-wallet
-- **E-Commerce Backend:** Products, orders, authentication, and checkout workflows  
-  👉 https://github.com/benedixit34/ecommerce-shop
-- **Language Learning Platform:** APIs for users, lessons, and progress tracking  
-  👉 https://github.com/benedixit34/lang-learning
+**Databases**
+PostgreSQL · MySQL · SQL
 
----
+**Cloud & DevOps**
+AWS · Azure · Docker · GitHub Actions
 
-## 📫 Contact
-- GitHub: https://github.com/benedixit34  
-- Email: luciusemuh@gmail.com  
+**Integrations**
+REST APIs · Payment Gateways · Third-Party APIs
 
-*Open to backend software engineering roles.*
+### What I'm Working On
+
+* Building scalable backend systems and APIs
+* Improving my cloud and DevOps skills
+* Exploring **AI Engineering** and AI-powered applications
+* Building products that solve practical business problems
+
+### Connect
+
+I'm open to collaborating on interesting software projects, backend systems, and AI-focused products.
